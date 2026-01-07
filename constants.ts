@@ -41,7 +41,7 @@ export const PROJECTS: Project[] = [
     techStack: ["Node/Express", "Postgre", "JWT-Auth", "Docker"],
     githubUrl: "https://github.com/ShreedharG/HeroViredProject",
     liveUrl: "https://hero-vired-merged.vercel.app/",
-    imageUrl: "./images/uniapply.png"
+    imageUrl: "/images/uniapply.png"
   },
   {
     id: "2",
@@ -51,7 +51,7 @@ export const PROJECTS: Project[] = [
     techStack: ["Socket.io", "React", "Node + Express"],
     githubUrl: "https://github.com/ShreedharG/BroCode",
     liveUrl: "https://brocode-nqwv.onrender.com/",
-    imageUrl: "./images/brocode.png"
+    imageUrl: "/images/brocode.png"
   },
   {
     id: "3",
@@ -60,7 +60,7 @@ export const PROJECTS: Project[] = [
     longDescription: "Built with C++, this algorithm uses string processing and pattern recognition to extract OTP from a text message .",
     techStack: ["C++", "String Processing", "Pattern Recognition"],
     githubUrl: "https://github.com/ShreedharG/OTP_Extraction",
-    imageUrl: "./images/otp.png"
+    imageUrl: "/images/otp.png"
   },
   {
     id: "4",
@@ -69,7 +69,7 @@ export const PROJECTS: Project[] = [
     longDescription: "Built with C++, this system implements a ride sharing system using OOP principles. It allows users to book rides and track their rides.",
     techStack: ["C++", "OOP", "System Design"],
     githubUrl: "https://github.com/ShreedharG/Ride_Sharing-System_Design",
-    imageUrl: "./images/ride-sharing.png"
+    imageUrl: "/images/ride-sharing.png"
   }
 ];
 

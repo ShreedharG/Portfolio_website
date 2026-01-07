@@ -1,19 +1,51 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🌐 Portfolio Website
 
-# Run and deploy your AI Studio app
+A modern, responsive personal portfolio website built to showcase my projects, skills, and experience as a **Final Year B.Tech student at LNMIIT, Jaipur**, with a strong focus on **backend development, system design, and AI-powered applications**.
 
-This contains everything you need to run your app locally.
+This portfolio serves as a central place to highlight my work, technical strengths, and professional journey.
 
-View your app in AI Studio: https://ai.studio/apps/temp/1
+---
 
-## Run Locally
+## ✨ Features
 
-**Prerequisites:**  Node.js
+- Clean and minimal UI with smooth animations
+- Easy to extend with new projects or sections
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Run the app:
-   `npm run dev`
+## 🧠 Sections Overview
+
+- **Home / About**  
+- **Signature Projects**  
+- **Other Projects & Work** 
+- **Skills**
+- **Education**
+- **Contact**
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- **React**
+- **TypeScript**
+
+---
+
+## 🚀 Running Locally
+
+Follow these steps to run the project on your local machine:
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/portfolio.git
+cd portfolio
+```
+
+### 2️⃣ Install Dependencies and Run Locally
+```bash
+npm i
+npm run dev
+```
+
+---

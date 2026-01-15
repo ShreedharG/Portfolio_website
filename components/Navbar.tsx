@@ -29,7 +29,7 @@ const Navbar: React.FC = () => {
           ))}
         </div>
         <a
-          href="https://drive.google.com/file/d/1DfWGfLZx7caOg8H9RskyxJHY2GbeDgNy/view"
+          href="https://drive.google.com/file/d/1BTcnSqkE4Ey29lKYCWoG4jigk4iTXEmF/view?usp=drivesdk"
           target="blank"
           className="px-4 py-2 bg-sky-500/10 hover:bg-sky-500/20 text-sky-400 border border-sky-500/30 rounded-lg text-sm font-medium transition-all hover:scale-105 active:scale-95"
         >
